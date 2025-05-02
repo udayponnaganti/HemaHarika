@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { FiDownload, FiLinkedin, FiGithub } from "react-icons/fi";
 import resume from '../assets/resume.pdf';
-import hemaFormal from "../assets/hemaformal.jpg";
+import hemaFormal from "../assets/hemaformal1.jpg";
 
 
 const Hero = () => {
